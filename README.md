@@ -19,5 +19,6 @@ Start the development server on `http://localhost:3000`:
 ```bash
 pnpm dev
 ngrok http http://localhost:3000
+# https://[your_ngrok_id].ngrok-free.app/api/test
 ```
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
